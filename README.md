@@ -1,2 +1,2 @@
 # Hello-world
-Learning to use Github with a quick test repository!
+Boomer Sooner!  Just getting started with learning how branches work.
